@@ -1,10 +1,20 @@
-# Fietstracker
-## Figma
-Link naar figma: https://www.figma.com/file/OWEUvHwc27N620yf8dlw9J/Project-Mobiele-application-development?node-id=0%3A1&t=IfIQpoGKysKLnONt-1
+FietsTrack App voor Apple Watch 🚴‍♂️⌚
 
-## Opstarten project:
-### Vereiste: Xcode
-1: Open de file FietsTracker.xcodeproj
-2: Signing & Capebileties eigen Team kiezen en Bundle Identifier invullen 
+FietsTrack is een innovatieve fiets tracking app, speciaal ontworpen voor de Apple Watch. Het biedt fietsers de mogelijkheid om hun fietsactiviteiten in realtime te monitoren, te verbinden met externe hartslagmeters en hun muziek onderweg te bedienen.
 
+Features 🌟
 
+Externe Hartslagmeter Ondersteuning: Via CoreBluetooth is het mogelijk om met een externe hartslagmeter te verbinden. Als er geen externe hartslagmeter aanwezig is, wordt de ingebouwde hartslagmeter van de Apple Watch gebruikt.
+Activiteitenbeheer: Bij het starten van een activiteit krijgt de gebruiker drie vensters:
+Controle Venster: Hiermee kan de gebruiker de activiteit pauzeren, herstarten of stoppen.
+Statistieken Venster: Toont realtime statistieken zoals snelheid, hartslag, afstand en gemiddelde waardes. De gebruiker kan schakelen tussen gemiddelde en live waardes.
+Muziekbediening: Hiermee kan de gebruiker zijn muziek onderweg bedienen.
+Activiteitsoverzicht: Na het stoppen van een activiteit wordt een samenvatting van alle statistieken weergegeven.
+Activiteiten Geschiedenis: Op de homepagina kunnen gebruikers een lijst zien van al hun voorgaande activiteiten. Door op een specifieke activiteit te klikken, krijgt men gedetailleerde informatie en de exacte route van de activiteit.
+Installatie 💽
+
+(Plaats hier instructies voor het klonen van je GitHub repository, het installeren van eventuele afhankelijkheden en het draaien van je app.)
+
+Screenshots 📸
+
+(Hier kun je enkele screenshots van je app toevoegen om mensen een voorproefje te geven van hoe het eruit ziet.)
