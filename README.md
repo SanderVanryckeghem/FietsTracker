@@ -1,5 +1,7 @@
 # FietsTrack App for Apple Watch 🚴‍♂️⌚
 
+![image](https://github.com/SanderVanryckeghem/FietsTracker/assets/78733641/da5ce9f6-cb27-437e-9f37-e7c583d4fa1e)
+
 **FietsTrack** is an innovative cycling tracking app, specially designed for the Apple Watch. It provides cyclists the ability to monitor their biking activities in real-time, connect with external heart rate monitors, and control their music on the go.
 
 ## Features 🌟
