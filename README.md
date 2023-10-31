@@ -1,20 +1,24 @@
-FietsTrack App voor Apple Watch 🚴‍♂️⌚
+# FietsTrack App for Apple Watch 🚴‍♂️⌚
 
-FietsTrack is een innovatieve fiets tracking app, speciaal ontworpen voor de Apple Watch. Het biedt fietsers de mogelijkheid om hun fietsactiviteiten in realtime te monitoren, te verbinden met externe hartslagmeters en hun muziek onderweg te bedienen.
+**FietsTrack** is an innovative cycling tracking app, specially designed for the Apple Watch. It provides cyclists the ability to monitor their biking activities in real-time, connect with external heart rate monitors, and control their music on the go.
 
-Features 🌟
+## Features 🌟
 
-Externe Hartslagmeter Ondersteuning: Via CoreBluetooth is het mogelijk om met een externe hartslagmeter te verbinden. Als er geen externe hartslagmeter aanwezig is, wordt de ingebouwde hartslagmeter van de Apple Watch gebruikt.
-Activiteitenbeheer: Bij het starten van een activiteit krijgt de gebruiker drie vensters:
-Controle Venster: Hiermee kan de gebruiker de activiteit pauzeren, herstarten of stoppen.
-Statistieken Venster: Toont realtime statistieken zoals snelheid, hartslag, afstand en gemiddelde waardes. De gebruiker kan schakelen tussen gemiddelde en live waardes.
-Muziekbediening: Hiermee kan de gebruiker zijn muziek onderweg bedienen.
-Activiteitsoverzicht: Na het stoppen van een activiteit wordt een samenvatting van alle statistieken weergegeven.
-Activiteiten Geschiedenis: Op de homepagina kunnen gebruikers een lijst zien van al hun voorgaande activiteiten. Door op een specifieke activiteit te klikken, krijgt men gedetailleerde informatie en de exacte route van de activiteit.
-Installatie 💽
+1. **External Heart Rate Monitor Support**: Via CoreBluetooth, it's possible to connect with an external heart rate monitor. If no external monitor is present, the built-in heart rate monitor of the Apple Watch is utilized.
 
-(Plaats hier instructies voor het klonen van je GitHub repository, het installeren van eventuele afhankelijkheden en het draaien van je app.)
+2. **Activity Management**: Upon starting an activity, the user is presented with three windows:
+    - **Control Window**: This allows the user to pause, restart, or stop the activity.
+    - **Statistics Window**: Displays real-time stats like speed, heart rate, distance, and average values. Users can toggle between average and live values.
+    - **Music Control**: Allows the user to control their music while on the move.
 
-Screenshots 📸
+3. **Activity Summary**: After stopping an activity, a summary of all the statistics is shown.
 
-(Hier kun je enkele screenshots van je app toevoegen om mensen een voorproefje te geven van hoe het eruit ziet.)
+4. **Activity History**: On the homepage, users can see a list of all their previous activities. By clicking on a specific activity, detailed information and the exact route of the activity is displayed.
+
+## Installation 💽
+
+(Insert instructions here on how to clone your GitHub repository, install any dependencies, and run your app.)
+
+## Screenshots 📸
+
+(Here you can add some screenshots of your app to give people a preview of what it looks like.)
