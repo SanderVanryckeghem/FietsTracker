@@ -17,10 +17,13 @@
 
 4. **Activity History**: On the homepage, users can see a list of all their previous activities. By clicking on a specific activity, detailed information and the exact route of the activity is displayed.
 
-## Installation 💽
+## Installation first download 💽
 
-(Insert instructions here on how to clone your GitHub repository, install any dependencies, and run your app.)
+(![image](https://github.com/SanderVanryckeghem/FietsTracker/assets/78733641/c1a050b5-2a63-4571-b0a3-2802c02c8b4e)
+
 
 ## Screenshots 📸
 
-(Here you can add some screenshots of your app to give people a preview of what it looks like.)
+![image](https://github.com/SanderVanryckeghem/FietsTracker/assets/78733641/13917b8e-65a3-48ff-b356-6aea3c529a21)
+![image](https://github.com/SanderVanryckeghem/FietsTracker/assets/78733641/1640c0fa-6c27-4a93-95db-18fadd997092)
+
